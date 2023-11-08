@@ -8,6 +8,7 @@ h1 {
   color: #b8ad7e;
   padding: 50px;
   font-size: 5em;
+  margin-left: 700px;
 }
 
 main {
@@ -17,7 +18,6 @@ main {
 }
 
 h2 {
-  margin-left: 700px;
   font-size: 2.5em;
 }
 
