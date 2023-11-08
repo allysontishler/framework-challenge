@@ -3,6 +3,18 @@ html {
   border-top: #000000;
 }
 
+h1 {
+  background: #000000;
+  color: #b8ad7e;
+  padding: 10px;
+}
+
+main {
+  background: #b8ad7e;
+  color: #000000;
+  padding: 20px;
+}
+
 h2 {
   margin-left: 700px;
   margin-bottom: 75px;
