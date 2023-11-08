@@ -1,12 +1,16 @@
+html {
+  background: #b8ad7e;
+}
+
+body {
+  color: #000000;
+  padding: 20px;
+}
+
 h1 {
   background: #000000;
   color: #b8ad7e;
   padding: 20px;
-}
-
-body {
-  background: #b8ad7e;
-  color: #000000;
 }
 
 img {
