@@ -1,5 +1,6 @@
 html {
   background: #b8ad7e;
+  border-top: #000000;
 }
 
 body {
@@ -10,6 +11,12 @@ body {
 h1 {
   background: #000000;
   color: #b8ad7e;
+  padding: 20px;
+}
+
+main {
+  background: #b8ad7e;
+  color: #000000;
   padding: 20px;
 }
 
