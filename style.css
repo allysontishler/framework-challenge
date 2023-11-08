@@ -6,7 +6,7 @@ html {
 h1 {
   background: #000000;
   color: #b8ad7e;
-  padding: 10px;
+  padding: 50px;
 }
 
 main {
@@ -17,7 +17,6 @@ main {
 
 h2 {
   margin-left: 700px;
-  margin-bottom: 75px;
   font-size: 2.5em;
 }
 
