@@ -6,9 +6,10 @@ html {
     background: #000000;
   }
   
-  h1 {
+  h1.header {
     background: #000000;
     color: #b8ad7e;
+    padding: 20px;
   }
   
   main {
