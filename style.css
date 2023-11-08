@@ -7,6 +7,7 @@ h1 {
   background: #000000;
   color: #b8ad7e;
   padding: 50px;
+  font-size: 5em;
 }
 
 main {
@@ -22,6 +23,7 @@ h2 {
 
 img {
   size: 50%;
+  position: center;
 }
 
 h3 {
