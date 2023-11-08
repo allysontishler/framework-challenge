@@ -24,8 +24,9 @@ h2 {
 }
 
 img {
-  size: 50%;
-  position: center;
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
 }
 
 h3 {
