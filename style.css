@@ -1,35 +1,35 @@
+h1 {
+  background: #000000;
+  color: #b8ad7e;
+  padding: 20px;
+}
 
-  h1 {
-    background: #000000;
-    color: #b8ad7e;
-    padding: 20px;
-  }
-  
-  main {
-    background: #b8ad7e;
-  }
-  
-  img {
-    width: 1000px;
-    height: 250px;
-  }
-  
-  h2 {
-    margin-left: 700px;
-    margin-bottom: 75px;
-    font-size: 2.5em;
-  }
-  
-  h3 {
-    font-size: 1.5em;
-    margin-bottom: 20px;
-  }
-  
-  h4 {
-    font-size: 1em;
-    margin-bottom: 20px;
-  }
-  
-  blockquote {
-    margin-left: 600px;
-  }
+main {
+  background: #b8ad7e;
+  color: #000000; /* Set the font color for the main content */
+}
+
+img {
+  width: 1000px;
+  height: 250px;
+}
+
+h2 {
+  margin-left: 700px;
+  margin-bottom: 75px;
+  font-size: 2.5em;
+}
+
+h3 {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+h4 {
+  font-size: 1em;
+  margin-bottom: 20px;
+}
+
+blockquote {
+  margin-left: 600px;
+}
