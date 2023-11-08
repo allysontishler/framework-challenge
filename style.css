@@ -15,10 +15,12 @@ main {
   background: #b8ad7e;
   color: #000000;
   padding: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h2 {
   font-size: 2.5em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 img {
@@ -29,9 +31,11 @@ img {
 h3 {
   font-size: 1.5em;
   margin-bottom: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h4 {
   font-size: 1em;
   margin-bottom: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
