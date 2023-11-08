@@ -19,6 +19,11 @@ html {
     background: #b8ad7e;
   }
   
+  img {
+    width: 1000px;
+    height: 250px;
+  }
+  
   h2 {
     margin-left: 700px;
     margin-bottom: 75px;
