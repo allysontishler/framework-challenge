@@ -4,9 +4,9 @@ h1 {
   padding: 20px;
 }
 
-main {
+body {
   background: #b8ad7e;
-  color: #000000; /* Set the font color for the main content */
+  color: #000000;
 }
 
 img {
